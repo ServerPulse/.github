@@ -21,6 +21,7 @@ Willkommen bei **ServerPulse**! Unser Ziel ist es, eine leistungsstarke und intu
 | [serverpulse-agent](https://github.com/ServerPulse/serverpulse-agent) | 🔌 Client-Agent für die Serverintegration |
 | [serverpulse-docs](https://github.com/ServerPulse/serverpulse-docs) | 📖 Dokumentation & API-Referenz |
 | [serverpulse-infra](https://github.com/ServerPulse/serverpulse-infra) | ⚙️ Infrastruktur & Deployment-Skripte |
+| [serverpulse-sdk](https://github.com/ServerPulse/serverpulse-sdk) | 🛠️ ServerPulse SDK |
 
 ---
 
