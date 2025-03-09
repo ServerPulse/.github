@@ -1,7 +1,7 @@
 # ServerPulse 🚀  
 **Monitoring & Logging für FiveM, AltV & RageMP**  
 
-Willkommen bei **ServerPulse**! Unser Ziel ist es, eine leistungsstarke und intuitive Monitoring- und Logging-Lösung für Multiplayer-Game-Server wie **FiveM, AltV und RageMP** bereitzustellen.  
+Willkommen bei **ServerPulse**! Unser Ziel ist es, eine leistungsstarke und intuitive Monitoring- und Logging-Lösung für Multiplayer-Game-Server wie **FiveM, AltV und RageMP** bereitzustellen, in Zukunft auch für Server wie Minecraft und co.  
 
 ## 🌟 Features  
 ✅ **Echtzeit-Monitoring** – CPU, RAM, Spielerstatistiken und mehr  
