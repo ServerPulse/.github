@@ -17,7 +17,7 @@ Willkommen bei **ServerPulse**! Unser Ziel ist es, eine leistungsstarke und intu
 | Repository | Beschreibung |
 |------------|-------------|
 | [serverpulse-core](https://github.com/ServerPulse/serverpulse-core) | 🌐 Hauptbackend für Datenverarbeitung & API |
-| [serverpulse-ui](https://github.com/ServerPulse/serverpulse-ui) | 🎨 Frontend-Webanwendung mit React/Tailwind |
+| [serverpulse-interface](https://github.com/ServerPulse/serverpulse-interface) | 🎨 Frontend-Webanwendung mit React/Tailwind |
 | [serverpulse-agent](https://github.com/ServerPulse/serverpulse-agent) | 🔌 Client-Agent für die Serverintegration |
 | [serverpulse-docs](https://github.com/ServerPulse/serverpulse-docs) | 📖 Dokumentation & API-Referenz |
 | [serverpulse-infra](https://github.com/ServerPulse/serverpulse-infra) | ⚙️ Infrastruktur & Deployment-Skripte |
