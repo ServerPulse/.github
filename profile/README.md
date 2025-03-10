@@ -13,7 +13,7 @@ Willkommen bei **ServerPulse**! Unser Ziel ist es, eine leistungsstarke und intu
 
 ---
 
-## 📂 Repositories  
+## 📂 Repositories  (Nur für Mitglieder)
 | Repository | Beschreibung |
 |------------|-------------|
 | [serverpulse-core](https://github.com/ServerPulse/serverpulse-core) | 🌐 Hauptbackend für Datenverarbeitung & API |
