@@ -9,7 +9,7 @@ Willkommen bei **ServerPulse**! Unser Ziel ist es, eine leistungsstarke und intu
 ✅ **Benutzerfreundliche UI** – Moderne Weboberfläche für einfache Verwaltung  
 ✅ **Benachrichtigungen** – Webhooks & Alerts bei kritischen Fehlern  
 ✅ **Multi-Server-Unterstützung** – Verwalte mehrere Server in einer Oberfläche  
-✅ **Open Source & Modular** – Einfach erweiterbar für deine Bedürfnisse  
+✅ **Self-Hosted CDN** – Speichert Bilder, Videos, Sounds, Logs und Web-Assets 
 
 ---
 
@@ -22,6 +22,7 @@ Willkommen bei **ServerPulse**! Unser Ziel ist es, eine leistungsstarke und intu
 | [serverpulse-docs](https://github.com/ServerPulse/serverpulse-docs) | 📖 Dokumentation & API-Referenz |
 | [serverpulse-infra](https://github.com/ServerPulse/serverpulse-infra) | ⚙️ Infrastruktur & Deployment-Skripte |
 | [serverpulse-sdk](https://github.com/ServerPulse/serverpulse-sdk) | 🛠️ ServerPulse SDK |
+| [serverpulse-cdn](https://github.com/ServerPulse/serverpulse-cdn) | 🛠️ Content Delivery Network |
 
 ---
 
@@ -54,13 +55,8 @@ Wir freuen uns über Beiträge! 🎉 Bitte beachte die **[Contribution Guideline
 ## 📢 Community & Support  
 💬 **Discord:** [Join our Server](https://discord.gg/yourserver)  
 🐦 **Twitter:** [@ServerPulse](https://twitter.com/ServerPulse)  
-📧 **Kontakt:** support@serverpulse.io  
+📧 **Kontakt:** support@serverpulse.net 
 
 ---
-
-## 📜 Lizenz  
-Dieses Projekt ist unter der **MIT-Lizenz** veröffentlicht. Weitere Infos findest du in der Datei **LICENSE**.  
-
----  
 
 Made with ❤️ by the **ServerPulse Team** 🚀  
